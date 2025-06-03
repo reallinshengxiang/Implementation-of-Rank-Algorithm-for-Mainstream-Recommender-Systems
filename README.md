@@ -1,6 +1,6 @@
 # 主流推荐系统Rank算法的实现
 
-![Python](https://img.shields.io/badge/Python-3.6-green?logo=python)
+![Python](https://img.shields.io/badge/Python-3.10.11-green?logo=python)
 ![TensorFlow Versions](https://img.shields.io/badge/TensorFlow-1.14-blue.svg)
 
 ### 项目简介
